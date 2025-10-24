@@ -1,0 +1,5 @@
+{
+  "name": "Code Guardian",
+  "description": "An intelligent dashboard that wraps complex code quality and security scanning tools into a simple, beautiful UI. Enter a GitHub repository URL to get an instant, AI-generated analysis of your codebase, identifying potential issues, security vulnerabilities, and performance bottlenecks.",
+  "requestFramePermissions": []
+}
